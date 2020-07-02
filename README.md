@@ -1,4 +1,5 @@
 # The Android App Market on Google Play: A comprehensive analysis of the Android App market
+![AndroidLogo](https://github.com/anhnguyenphung/android-app-market/blob/master/android-logo.png)
 ---
 ## Introduction
 After finishing the track Data Science with Python on DataCamp, I decided to do this project on DataCamp to sharpen my skill of exploratory data analysis before jumping into
